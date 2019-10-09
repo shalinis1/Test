@@ -1,0 +1,3 @@
+﻿
+.We are assuming thatyou already have MySQL or MariaDB server installed on your system
+ With our improved understanding of CSV files, let’s learn how to get them into Ruby. Before we start doing anything, we need to in our program file that.
